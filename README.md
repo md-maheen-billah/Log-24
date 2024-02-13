@@ -5,4 +5,4 @@ I tried to implement whatever I learned by creating a simple calculation based w
 
 ## Links
 
- - Assignment-3: https://md-maheen-billah.github.io/Assignment-3/
+ - Practice Task: https://md-maheen-billah.github.io/Log-24/
